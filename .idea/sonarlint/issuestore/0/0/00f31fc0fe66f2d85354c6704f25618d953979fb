@@ -1,0 +1,9 @@
+
+r
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "item".(â¦÷Ë
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "items".(ŸÉ³öøÿÿÿÿ8ñÏøã¢1
+~
+java:S1488!"\Immediately return this expression instead of assigning it to the temporary variable "item".(Ìºˆ“üÿÿÿÿ8¤Îöã¢1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß8ß·‹ä¢1
